@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class EvenOdd {
-//comment fetch
     public static void main(String[] args) {
 
         Scanner reader = new Scanner(System.in);;
@@ -13,6 +12,5 @@ public class EvenOdd {
             System.out.println(num + " is even");
         else
             System.out.println(num + " is odd");
-//comment1
     }
 }
